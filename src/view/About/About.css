@@ -1,0 +1,47 @@
+.about-container{
+    background-color: black;
+    min-height: 100vh;
+}
+.about-card{
+    display: flex;
+    justify-content: space-evenly;
+    height: 450px;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px white solid;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.img-info{
+    height: 400px;
+    width: 350px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+.img-card{
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.user-img{
+    height: 300px;
+    border-radius: 10px;
+}
+.about-btn{
+    color: aliceblue;
+    background-color: orange;
+    cursor: pointer;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+.about-btn:hover{
+    background-color: rgb(20, 51, 51);
+}
+.sub-heading{
+    color: orange;
+}
